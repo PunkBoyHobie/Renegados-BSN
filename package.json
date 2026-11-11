@@ -1,7 +1,7 @@
 {
   "name": "rbsn-anarchy-bot",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "Bot RBSN para Anarchy",
   "main": "bot.js",
   "type": "commonjs",
